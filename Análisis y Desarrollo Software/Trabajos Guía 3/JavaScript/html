@@ -1,0 +1,20 @@
+//programa que permita almacenar las edades de un grupo de 10 personas en un vector de enteros
+//determinar las personas que son menores de edad
+//determinar las personas que son mayores de edad
+//cuantos adultos mayores hay
+//la edad mas baja, la edad mas alta
+//promedio de las edades ingresadas
+//el ingreso de valores debe estar en un rango de 1 a 120
+let ("ingresar 10 edades de un grupo de personas");
+dimension= edad [10];
+parseFloat(" x =1 hasta 10 Con Paso 1 Hacer");
+let ("determinar las personas que son menores de edad");
+parseFloat("si edad (x)< menor a 18, entonces es menor de edad");
+let("determinar las personas que son mayores de edad");
+parseFloat("si edad(x)> mayor a 18, entonces es mayor de edad");
+let("determinar la edad mas baja y la mas alta");
+parseFloat("number edad < menor que 18");
+parseFloat("number edad >mayor qye 18");
+let ("promedio de las edades ingresadas");
+let ("el promedio de las edades del grupo es:","suman / total");
+alert ("elingreso de valores debe estar en un rango de 1 a 120","en caso de error notificar un nuevo valor");
